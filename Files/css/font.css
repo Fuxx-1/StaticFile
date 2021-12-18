@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/ebgaramond/v19/~ChwKC0VCIEdhcmFtb25kEAI6Cwj00J27BxUAAMhDEAkgAw==.woff) format('woff');
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/ebgaramond/v19/~ChwKC0VCIEdhcmFtb25kEAI6Cwj00J27BxUAAC9EEAkgAw==.woff) format('woff');
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/ebgaramond/v19/~ChoKC0VCIEdhcmFtb25kOgsI9NCduwcVAADIQxAJIAM=.woff) format('woff');
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/ebgaramond/v19/~ChoKC0VCIEdhcmFtb25kOgsI9NCduwcVAAAvRBAJIAM=.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lobster Two';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/lobstertwo/v13/BngOUXZGTXPUvIoyV6yN5-fI1qeh4g.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lobster Two';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/lobstertwo/v13/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lobster Two';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/lobstertwo/v13/BngMUXZGTXPUvIoyV6yN5-fN5qM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lobster Two';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/lobstertwo/v13/BngRUXZGTXPUvIoyV6yN5-92w7CGwRs.woff) format('woff');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/notoserifsc/v16/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/notoserifsc/v16/H4chBXePl9DZ0Xe7gG9cyOj7kqGWaA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/notoserifsc/v16/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/sourcecodepro/v18/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTMo1bQF0e.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/sourcecodepro/v18/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTbI1bQF0e.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/sourcecodepro/v18/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTi4pbQF0e.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/sourcecodepro/v18/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DJKQtMdrSg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/sourcecodepro/v18/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMdrSg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://gstatic.loli.net/s/sourcecodepro/v18/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMdrSg.woff) format('woff');
+}

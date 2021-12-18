@@ -1,2 +1,0 @@
-# StaticFile
-use by jsdelivr
